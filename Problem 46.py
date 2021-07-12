@@ -1,3 +1,4 @@
+#Not optimal solution
 import math
 from itertools import count, islice
 import time
