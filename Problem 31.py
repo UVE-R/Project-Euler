@@ -1,3 +1,4 @@
+#Dynamic Programming approach
 
 dp = [0] * 201  #number of ways to get sum = i
 dp[0] = 1 #1 way of getting sum = 0
