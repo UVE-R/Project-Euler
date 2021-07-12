@@ -1,11 +1,11 @@
-//Optimal solution
-
 #include <bits/stdc++.h>
 using namespace std;
 
 int p[10000] = {3,5,7}, i, j;
 int k, n, flag;
 
+
+//Optimal Solution
 int main() {
 
   for(i = 9, n = 2;; i += 2){
